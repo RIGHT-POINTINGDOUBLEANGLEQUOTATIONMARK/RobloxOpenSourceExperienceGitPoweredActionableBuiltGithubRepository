@@ -24,7 +24,7 @@ This project needs your help! Help develop the project by:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE), but please don't completely copy the repo and re-upload to Roblox without credit or significant changes.
 
 ---
 
