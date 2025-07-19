@@ -1,0 +1,29 @@
+{
+    "_comment": "This is *not* guaranteed to work with rojo.",
+    "name": "RobloxOpenSourceExperienceGitPoweredActionableBuiltGithubRepository",
+    "tree": {
+        "$className": "DataModel",
+        "Workspace": {
+            "$path": "datamodel/Workspace",
+            "$className": "Workspace"
+        },
+        "ReplicatedStorage": {
+            "$path": "datamodel/ReplicatedStorage",
+            "$className": "ReplicatedStorage"
+        },
+        "ServerStorage": {
+            "$path": "datamodel/ServerStorage",
+            "$className": "ServerStorage"
+        },
+        "ServerScriptService": {
+            "$path": "datamodel/ServerScriptService",
+            "$className": "ServerScriptService"
+        },
+        "StarterPlayer": {
+            "$className": "StarterPlayer",
+            "StarterPlayerScripts": {
+                "$path": "datamodel/StarterPlayer/StarterPlayerScripts"
+            }
+        }
+    }
+}
