@@ -17,9 +17,9 @@ This project needs your help! Help develop the project by:
 2. Creating a new branch for your change
 3. Submitting a pull request with a clear description of changes
 4. Ensuring that you have not:
-  * Obfuscated code
-  * Attempted to put malicious backdoors in the code
-  * Or any other malicious behaviour
+	- Obfuscated code
+	- Attempted to put malicious backdoors in the code
+	- Or any other malicious behaviour
 ---
 
 ## License
