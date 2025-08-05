@@ -47,6 +47,7 @@
 ![Usage Terms](https://img.shields.io/badge/Usage-Don't%20Ask%20Questions-important)
 ![Source Freedom](https://img.shields.io/badge/Source-Fork%20at%20Your%20Own%20Risk-lightred)
 
+> these badges might not accurately reflect the licensing or status of this repo. do not trust the badges.
 
 
 **RobloxOpenSourceExperienceGitPoweredActionableBuiltGithubRepository** is an open source Roblox Experience created by RIGHT-POINTINGDOUBLEANGLEQUOTATIONMARK Labs and hosted by IcedLuau.
